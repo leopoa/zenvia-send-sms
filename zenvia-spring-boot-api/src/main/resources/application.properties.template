@@ -1,0 +1,4 @@
+send.sms=https://api-rest.zenvia360.com.br/services/send-sms
+username=
+password=
+
